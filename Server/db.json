@@ -42,6 +42,27 @@
       },
       "anotacoes": "O paulo é muito legal ",
       "id": 2
+    },
+    {
+      "nome": "Julia",
+      "sobrenome": "Athar",
+      "email": "ju@email.com",
+      "telefone": {
+        "pais": "55",
+        "ddd": "11",
+        "numero": "40662050"
+      },
+      "endereco": {
+        "cep": "09951340",
+        "rua": "Rua Maria Florinda",
+        "numero": "42",
+        "complemento": "(Jd B Vista)",
+        "bairro": "Piraporinha",
+        "cidade": "Diadema",
+        "estado": "SP"
+      },
+      "anotacoes": "Ju é top",
+      "id": 3
     }
   ]
 }
